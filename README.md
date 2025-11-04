@@ -6,12 +6,13 @@ der genererer en random tekst, baseret på bogen Frankenstein.
 ### Konstanter
 
 - `MAX_WORD_COUNT`  
-  Det højste antal unikke tokens (ord) programmet kan gemme.  
-  I dette program, er det sat til **15.000 ord**.
+  Det højste antal unikke tokens (ord) programmet kan gemme.
+  - I dette program, er det sat til **15.000 ord**.
 
 - `MAX_SUCCESSOR_COUNT`  
   Det højste antal successors et ord kan have.
-  I dette program, er det sat til **MAX_WORD_COUNT/2**.
+  - I dette program, er det sat til **MAX_WORD_COUNT/2**.
+  
 ### Vigtigste funktioner
 
 - `tokenize_and_fill_succs()`
