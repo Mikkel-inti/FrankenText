@@ -233,13 +233,8 @@ int main() {
   char sentence[1000];
   srand(time(NULL)); // Be random each time we run the program
 
-  // Generate sentences until we find a question sentence.
-  int test = 0;
-
   do {
     generate_sentence(sentence, sizeof sentence);
-    test++;
-    printf("\n%d", test);
   } while (last_char(sentence) != '?');
   puts(sentence);
   puts("");
