@@ -31,6 +31,7 @@ der genererer en random tekst, baseret på bogen Frankenstein.
 ### Eksempel på udskrift:
 #### Eksempel 1:
 <img width="639" height="115" alt="image" src="https://github.com/user-attachments/assets/0c475024-bab0-478f-b7d5-c04ba15af8db" />
+
 #### Eksempel 2:
 <img width="971" height="162" alt="image" src="https://github.com/user-attachments/assets/3826f6cc-faa6-4f1b-bd16-421393639d94" />
 
