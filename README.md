@@ -3,7 +3,7 @@
 Dette C-program er lavet i forbindelse med kursus: **62712- Basic C-programmeing**, 
 der genererer en random tekst, baseret på bogen Frankenstein.
 
-#### Konstanter
+### Konstanter
 
 - `MAX_WORD_COUNT`  
   Det højste antal unikke tokens (ord) programmet kan gemme.  
